@@ -1,0 +1,3 @@
+### RESUMEN        
+La elaboración del informe de auditoría es el paso siguiente a la conclusión del primer y segundo paso de aplicación de la metodología basada en SAFETAG. La información que contiene debe relacionarse de manera clara y entendible, bajo una narrativa descriptiva que permita luego a los miembros de la organización de la sociedad civil auditada, entender plenamente cuáles han sido los hallazgos, cuáles las oportunidades de mejora, y cómo centrar los esfuerzos para llevar a cabo acciones de cambio según sus propios recursos y capacidades y cómo medir los beneficios que trae implementar las mejoras.
+

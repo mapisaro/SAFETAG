@@ -1,0 +1,10 @@
+## ¿QUÉ ES?
+
+SAFETAG es un marco de referencia y lista de chequeo creada de forma abierta bajo el ala de Internews. Fue desarrollado con la finalidad de poder adaptar las técnicas tradicionales de pruebas de hacking ético, auditorías de seguridad de la información y metodologías de riesgos a organizaciones civiles sin ánimo de lucro y a poblaciones vulnerables, con la finalidad de poder ayudarlas a mejorar su estado de seguridad teniendo en cuenta la limitación de sus recursos, tanto técnicos como financieros. 
+
+El marco de referencia fue desarrollado con base en estándares establecidos para la realización de auditorías de seguridad y las mejores prácticas para organizaciones de sociedad civil. El objetivo es que las personas auditoras puedan apoyar a la organización y sus colaboradores en la creación de una cultura de seguridad mediante un plan de trabajo que considere etapas como la identificación, análisis y gestión de riesgos y vulnerabilidades de seguridad identificadas, con el fin de lograr alcanzar una madurez suficiente en seguridad digital que permita a la organización tratar los riesgos asociados al manejo de información.
+
+La realización de auditorías de seguridad digital para organizaciones de sociedad civil es una necesidad mundial, sin embargo es preciso que este marco de referencia se adapte a las particularidades del contexto y enfoque de cada organización para responder de mejor manera a las amenazas puntuales que pueden estar enfrentando las organizaciones en un lugar específico y según sus actividades. 
+
+De la misma manera que la metodología puede ser ajustada, también es necesario desarrollar una sensibilidad especial entre la comunidad técnica que realizará las auditorías. No se trata solamente de aportar una serie de conocimientos, metodologías y técnicas sino de introducir las singularidades del mundo de las organizaciones de sociedad civil, las amenazas a las cuales están expuestas, las capacidades que tienen y las que necesitan desarrollar, el tipo de recursos a los que pueden acceder y en particular el contexto en el cual se encuentran.
+

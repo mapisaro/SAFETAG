@@ -1,0 +1,1 @@
+Este material circula bajo una licencia Creative Commons CC BY-SA 4.0. Usted puede remezclar, retocar y crear a partir de obra, incluso con fines comerciales, siempre y cuando dé crédito al autor y licencie las nuevas creaciones bajo mismas condiciones. Para ver una copia de esta licencia visite: [https://creativecommons.org/licenses/by-sa/4.0/deed.es]
