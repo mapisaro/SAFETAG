@@ -1,26 +1,26 @@
 
 # PARTE CERO: PREPARACIÓN
 
-## CONSTRUCCIÓN DEL CONTEXTO DE PAÍS 
+## CONSTRUCCIÓN DEL CONTEXTO DE PAÍS
 
 <!-- Construcción del contexto de país -->
 
-!INCLUDE "adids-co/construccion_contexto.md"
+!INCLUDE "construccion_contexto.md"
 
 <!-- Contexto sobre la vigilancia de las comunicaciones en Colombia -->
 
-!INCLUDE "adids-co/contexto_vigilancia.md"
+!INCLUDE "contexto_vigilancia.md"
 
 <!-- Selección de la organización a auditar -->
 
-!INCLUDE "adids-co/seleccion.md"
+!INCLUDE "seleccion.md"
 
 <!-- Contacto in icial con la organización -->
 
-!INCLUDE "adids-co/contacto.md"
+!INCLUDE "contacto.md"
 
 <!-- Acuerdo de entendimiento -->
 
-!INCLUDE "adids-co/acuerdo.md"
+!INCLUDE "acuerdo.md"
 
 \newpage

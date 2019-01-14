@@ -2,12 +2,12 @@
 
 ### RESUMEN
 
-!INCLUDE "adids-co/preparacion/seleccion/resumen.md"
+!INCLUDE "seleccion/resumen.md"
 
 ### POR QUÉ ES IMPORTANTE
 
-!INCLUDE "adids-co/preparacion/seleccion/por_que_importa.md"
+!INCLUDE "seleccion/por_que_importa.md"
 
 ### MATERIALES REQUERIDOS
 
-!INCLUDE "adids-co/preparacion/seleccion/materiales.md"
+!INCLUDE "seleccion/materiales.md"

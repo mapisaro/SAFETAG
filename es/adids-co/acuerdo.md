@@ -2,12 +2,12 @@
 
 ### RESUMEN
 
-!INCLUDE "adids-co/acuerdo/resumen.md"
+!INCLUDE "acuerdo/resumen.md"
 
 ### POR QUÉ ES IMPORTANTE
 
-!INCLUDE "adids-co/acuerdo/por_que_importa.md"
+!INCLUDE "acuerdo/por_que_importa.md"
 
 ### MATERIALES REQUERIDOS
 
-!INCLUDE "adids-co/acuerdo/materiales.md"
+!INCLUDE "acuerdo/materiales.md"

@@ -5,19 +5,20 @@
 
 <!-- ¿Qué es? -->
 
-!INCLUDE "es/adids-co/introduccion/que_es.md"
+!INCLUDE "introduccion/que_es.md"
 
-## UNA METODOLOGÍA ADAPTADA 
+## UNA METODOLOGÍA ADAPTADA
 
 <!--  Una metodología adaptada -->
 
-!INCLUDE "es/adids-co/introduccion/metodologia.md"
+!INCLUDE "introduccion/metodologia.md"
 
 ### ETAPAS DE AUDITORÍA BASADA EN SAFETAG
 
-<!-- Etapas de la auditoría en SAFETAG -->]
+<!-- Etapas de la auditoría en SAFETAG -->
+
+!INCLUDE "introduccion/etapas.md"
 
 ### CONCEPTOS CLAVE DE LA METODOLOGÍA SAFETAG
 
-!INCLUDE "es/adids-co/introduccion/conceptos.md"
-
+!INCLUDE "introduccion/conceptos.md"

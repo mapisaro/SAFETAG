@@ -2,12 +2,12 @@
 
 ### RESUMEN
 
-!INCLUDE "adids-co/metodologia_riesgos/resumen.md"
+!INCLUDE "metodologia_riesgos/resumen.md"
 
 ### POR QUÉ ES IMPORTANTE
 
-!INCLUDE "adids-co/metodologia_riesgos/por_que_importa.md"
+!INCLUDE "metodologia_riesgos/por_que_importa.md"
 
 ### MATERIALES REQUERIDOS
 
-!INCLUDE "adids-co/metodologia_riesgos/materiales.md"
+!INCLUDE "metodologia_riesgos/materiales.md"

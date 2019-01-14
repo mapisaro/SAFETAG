@@ -5,7 +5,7 @@
 
 <!-- Lectura metodología de riegos -->
 
-!INCLUDE "adids-co/metodologia_riesgos.md"
+!INCLUDE "metodologia_riesgos.md"
 
 ## CUESTIONARIO DE ANÁLISIS DE RIESGO EN SEGURIDAD DIGITAL
 
